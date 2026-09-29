@@ -6,10 +6,11 @@
 This dashboard helps to check the sales, mainly for 2017, and compare them with the previous year, 2016.
 
 #### Questions to Analyse
-1. Compare the sales and profit of 2017 and 2016
-2. Compare the sales by Category and Segment of City and Sub-Category
-3. Insert a chart to compare sales in each quarter from 2014 to 2017 by sales and price
-4. Insert a chart to find the lowest and highest sales by city
+1. How much did total sales and profit grow compared with the previous year?
+2. Which product sub-categories had the highest and lowest sales growth compared with the previous year?
+3. Which cities experienced the largest increase and decrease in sales compared with the previous year?
+4. Which states generated the highest sales, and how much did they contribute to total sales?
+5. Which customer segment (Consumer, Corporate, or Home Office) generated the highest profit, and how did its profit compare with the other segments?
 
 ### Excel Skills Used:
 The following Excel skills were used to analyse 
